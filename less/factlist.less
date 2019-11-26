@@ -12,6 +12,7 @@ html {
 }
 
 body {
+    font-family: 'F Grotesk' !important;
     background: @gray-lighter;
     min-width: 680px;
 }
@@ -339,7 +340,7 @@ canvas {
 
     p.timestamp {
         font-size: @base-font-size;
-        color: @timestamp-color;
+        opacity: 0.5;
         text-transform: uppercase;
         letter-spacing: 0.1em;
         font-weight: normal;
@@ -351,8 +352,10 @@ canvas {
         &:after {
             content: @timestamp-timezone;
         }
+       
+        
     }
-
+    
     .logo-wrapper {
         position: absolute;
         width: 100%;
