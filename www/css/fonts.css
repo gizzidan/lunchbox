@@ -3,37 +3,37 @@
   font-family: "Noe Text";
   font-weight: 400;
   font-style: normal;
-  src: url('www/font/Noe Text/NoeText-Book.woff') format("woff");
+  src: url('/font/NoeText-Book.woff') format("woff");
 }
 @font-face {
   font-family: "Noe Text";
   font-weight: 400;
   font-style: italic;
-  src: url('www/font/Noe Text/NoeText-BookItalic.woff') format("woff");
+  src: url('/font/NoeText-BookItalic.woff') format("woff");
 }
 @font-face {
   font-family: "Noe Text";
   font-weight: 500;
   font-style: normal;
-  src: url('www/font/Noe Text/NoeText-SemiBold.woff') format("woff");
+  src: url('/font/NoeText-SemiBold.woff') format("woff");
 }
 @font-face {
   font-family: "Noe Text";
   font-weight: 500;
   font-style: italic;
-  src: url('www/font/Noe Text/NoeText-SemiBoldItalic.woff') format("woff");
+  src: url('/font/NoeText-SemiBoldItalic.woff') format("woff");
 }
 @font-face {
   font-family: "Noe Text";
   font-weight: 700;
   font-style: normal;
-  src: url('www/font/Noe Text/NoeText-Bold.woff') format("woff");
+  src: url('/font/NoeText-Bold.woff') format("woff");
 }
 @font-face {
   font-family: "Noe Text";
   font-weight: 700;
   font-style: italic;
-  src: url('www/font/Noe Text/NoeText-BoldItalic.woff') format("woff");
+  src: url('/font/NoeText-BoldItalic.woff') format("woff");
 }
 
 
@@ -41,35 +41,35 @@
   font-family: "F Grotesk";
   font-weight: 400;
   font-style: normal;
-  src: url('www/font/F Grotesk/FGrotesk-Regular.woff') format("woff");
+  src: url('/font/F Grotesk/FGrotesk-Regular.woff') format("woff");
 }
 @font-face {
   font-family: "F Grotesk";
   font-weight: 400;
   font-style: italic;
-  src: url('www/font/F Grotesk/FGrotesk-Italic.woff') format("woff");
+  src: url('/font/FGrotesk-Italic.woff') format("woff");
 }
 @font-face {
   font-family: "F Grotesk";
   font-weight: 500;
   font-style: normal;
-  src: url('www/font/F Grotesk/FGroteskDemi-Regular.woff') format("woff");
+  src: url('/font/FGroteskDemi-Regular.woff') format("woff");
 }
 @font-face {
   font-family: "F Grotesk";
   font-weight: 500;
   font-style: italic;
-  src: url('www/font/F Grotesk/FGroteskDemi-Italic.woff') format("woff");
+  src: url('/font/FGroteskDemi-Italic.woff') format("woff");
 }
 @font-face {
   font-family: "F Grotesk";
   font-weight: 700;
   font-style: normal;
-  src: url('www/font/F Grotesk/FGroteskBold-Regular.woff') format("woff");
+  src: url('/font/FGroteskBold-Regular.woff') format("woff");
 }
 @font-face {
   font-family: "F Grotesk";
   font-weight: 700;
   font-style: italic;
-  src: url('www/font/F Grotesk/FGroteskBold-Italic.woff') format("woff");
+  src: url('/font/FGroteskBold-Italic.woff') format("woff");
 }
