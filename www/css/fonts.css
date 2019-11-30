@@ -1,27 +1,3 @@
-@font-face {
-    font-family: "GT America";
-    font-weight: 400;
-    src: url("www/font/GT America Regular.otf") format("open-type");
-  }
-  
-@font-face {
-    font-family: "GT America Cond";
-    font-weight: 400;
-    src: url("www/font/GT America Condensed Regular.otf") format("open-type");
-  }
-
-@font-face {
-    font-family: "GT Sectra";
-    font-weight: 400;
-    src: url("www/font/GT-Sectra-Regular.woff") format("woff");
-  }
-
-@font-face {
-    font-family: "Portrait";
-    font-weight: 400;
-    src: url("www/font/Portrait-Regular2.woff") format("woff");
-  }
-
 /** Noe Text */
 @font-face {
   font-family: "Noe Text";
