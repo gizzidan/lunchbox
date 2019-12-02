@@ -126,6 +126,7 @@ var saveImage = function() {
         window.oCanvas = document.getElementsByTagName("canvas");
         window.oCanvas = window.oCanvas[0];
         var strDataURI = window.oCanvas.toDataURL();
+        
 
         var headline = $kicker.text().split(' ', 9);
         var filename = convertToSlug(headline.join(' '));

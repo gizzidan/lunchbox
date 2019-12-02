@@ -1,5 +1,5 @@
 // widths and padding
-var canvasWidth = 1000; // this will be the exported width of the image
+var canvasWidth = 2000; // this will be the exported width of the image
 var elementPadding = 40; // padding around the logo and credit text
 
 // logo configuration
@@ -8,16 +8,9 @@ var logos = {
     'the hum': {
         whitePath: '../img/the_hum_white.svg', // path to white logo
         blackPath: '../img/the_hum_black.svg', // path to black logo
-        w: 120, // width of logo
-        h: 73, // height of logo
+        w: 240, // width of logo
+        h: 146, // height of logo
         display: 'The Hum'
-    },
-    'socializr': {
-        whitePath: '../img/icon-socializr-white.svg',
-        blackPath: '../img/icon-socializr-black.svg',
-        w: 150,
-        h: 51,
-        display: 'Socializr'
     }
 };
 
